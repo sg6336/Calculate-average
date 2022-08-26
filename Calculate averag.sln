@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate averag", "Calculate averag\Calculate averag.csproj", "{984AD9F6-EBD8-425D-AF38-93574B825871}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{2B70396A-CFCB-441B-9B7D-AC8E3A9F67F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{984AD9F6-EBD8-425D-AF38-93574B825871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{984AD9F6-EBD8-425D-AF38-93574B825871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{984AD9F6-EBD8-425D-AF38-93574B825871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{984AD9F6-EBD8-425D-AF38-93574B825871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B70396A-CFCB-441B-9B7D-AC8E3A9F67F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B70396A-CFCB-441B-9B7D-AC8E3A9F67F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B70396A-CFCB-441B-9B7D-AC8E3A9F67F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B70396A-CFCB-441B-9B7D-AC8E3A9F67F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B10745D3-A55E-4E58-9EC2-C771980079D9}
+	EndGlobalSection
+EndGlobal
